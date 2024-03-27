@@ -1,0 +1,6 @@
+{
+  "//_comment": "App Skeleton Mock Api",
+  "/v1/master/hospital?page=1&limit=25": "/master-hospital",
+  "/v1/master/doctor?page=1&limit=25": "/master-doctor",
+  "/v1/master/sickType?page=1&limit=25": "/master-sickType"
+}

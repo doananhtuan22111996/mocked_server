@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": true,
+    "message": "string"
+  },
+  "data": {
+    "limit": 50,
+    "page": 1,
+    "total": 2,
+    "hasMore": false,
+    "items": [
+      {
+        "sickTypeId": "BV001",
+        "sickTypeName": "Loại bệnh 001"
+      },
+      {
+        "sickTypeId": "BV002",
+        "sickTypeName": "Loại bệnh 002"
+      },
+      {
+        "sickTypeId": "BV003",
+        "sickTypeName": "Loại bệnh 003"
+      },
+      {
+        "sickTypeId": "BV004",
+        "sickTypeName": "Loại bệnh 004"
+      },
+      {
+        "sickTypeId": "BV005",
+        "sickTypeName": "Loại bệnh 005"
+      },
+      {
+        "sickTypeId": "BV006",
+        "sickTypeName": "Loại bệnh 006"
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+"master-doctor":
+{
+  "meta": {
+    "status": true,
+    "message": "string"
+  },
+  "data": {
+    "limit": 50,
+    "page": 1,
+    "total": 2,
+    "hasMore": false,
+    "items": [
+      {
+        "doctorId": "BS001",
+        "doctorName": "Bác sĩ 001"
+      },
+      {
+        "doctorId": "BS002",
+        "doctorName": "Bác sĩ 002"
+      },
+      {
+        "doctorId": "BS003",
+        "doctorName": "Bác sĩ 003"
+      },
+      {
+        "doctorId": "BS004",
+        "doctorName": "Bác sĩ 004"
+      },
+      {
+        "doctorId": "BS005",
+        "doctorName": "Bác sĩ 005"
+      },
+      {
+        "doctorId": "BS006",
+        "doctorName": "Bác sĩ 006"
+      }
+    ]
+  }
+}
+,
+"master-hospital":
+{
+  "meta": {
+    "status": true,
+    "message": "string"
+  },
+  "data": {
+    "limit": 50,
+    "page": 1,
+    "total": 2,
+    "hasMore": false,
+    "items": [
+      {
+        "hospitalId": "61c970af7123c427d369c369",
+        "hospitalName": "BVCAQ KV Bình Phước"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c375",
+        "hospitalName": "Viện Cây ăn quả Miền Nam"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c357",
+        "hospitalName": "BVCAQ KV Tiền Giang"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c35d",
+        "hospitalName": "BVCAQ KV Bến Tre"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c366",
+        "hospitalName": "BVCAQ KV Bình Thuận"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c360",
+        "hospitalName": "BVCAQ KV Vĩnh Long"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c363",
+        "hospitalName": "BVCAQ KV An Giang"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c35a",
+        "hospitalName": "BVCAQ Trung Tâm"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c36f",
+        "hospitalName": "BVCAQ KV Miền Bắc"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c354",
+        "hospitalName": "BVCAQ KV Đồng Tháp"
+      }
+    ]
+  }
+}
+,
+"master-sickType":
+{
+  "meta": {
+    "status": true,
+    "message": "string"
+  },
+  "data": {
+    "limit": 50,
+    "page": 1,
+    "total": 2,
+    "hasMore": false,
+    "items": [
+      {
+        "sickTypeId": "BV001",
+        "sickTypeName": "Loại bệnh 001"
+      },
+      {
+        "sickTypeId": "BV002",
+        "sickTypeName": "Loại bệnh 002"
+      },
+      {
+        "sickTypeId": "BV003",
+        "sickTypeName": "Loại bệnh 003"
+      },
+      {
+        "sickTypeId": "BV004",
+        "sickTypeName": "Loại bệnh 004"
+      },
+      {
+        "sickTypeId": "BV005",
+        "sickTypeName": "Loại bệnh 005"
+      },
+      {
+        "sickTypeId": "BV006",
+        "sickTypeName": "Loại bệnh 006"
+      }
+    ]
+  }
+}
+
+}

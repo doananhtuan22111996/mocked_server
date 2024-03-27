@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": true,
+    "message": "string"
+  },
+  "data": {
+    "limit": 50,
+    "page": 1,
+    "total": 2,
+    "hasMore": false,
+    "items": [
+      {
+        "doctorId": "BS001",
+        "doctorName": "Bác sĩ 001"
+      },
+      {
+        "doctorId": "BS002",
+        "doctorName": "Bác sĩ 002"
+      },
+      {
+        "doctorId": "BS003",
+        "doctorName": "Bác sĩ 003"
+      },
+      {
+        "doctorId": "BS004",
+        "doctorName": "Bác sĩ 004"
+      },
+      {
+        "doctorId": "BS005",
+        "doctorName": "Bác sĩ 005"
+      },
+      {
+        "doctorId": "BS006",
+        "doctorName": "Bác sĩ 006"
+      }
+    ]
+  }
+}

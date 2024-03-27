@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": true,
+    "message": "string"
+  },
+  "data": {
+    "limit": 50,
+    "page": 1,
+    "total": 2,
+    "hasMore": false,
+    "items": [
+      {
+        "hospitalId": "61c970af7123c427d369c369",
+        "hospitalName": "BVCAQ KV Bình Phước"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c375",
+        "hospitalName": "Viện Cây ăn quả Miền Nam"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c357",
+        "hospitalName": "BVCAQ KV Tiền Giang"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c35d",
+        "hospitalName": "BVCAQ KV Bến Tre"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c366",
+        "hospitalName": "BVCAQ KV Bình Thuận"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c360",
+        "hospitalName": "BVCAQ KV Vĩnh Long"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c363",
+        "hospitalName": "BVCAQ KV An Giang"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c35a",
+        "hospitalName": "BVCAQ Trung Tâm"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c36f",
+        "hospitalName": "BVCAQ KV Miền Bắc"
+      },
+      {
+        "hospitalId": "61c970af7123c427d369c354",
+        "hospitalName": "BVCAQ KV Đồng Tháp"
+      }
+    ]
+  }
+}
